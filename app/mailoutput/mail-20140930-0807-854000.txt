@@ -1,0 +1,12 @@
+To: qwert@am.cm
+Subject: Birthday Reminder From Diet Code
+From: Diet Code <irwin93jesus@gmail.com>
+X-Mailer: CakePHP Email
+Date: Tue, 30 Sep 2014 13:37:31 +0530
+Message-ID: <542a64c389644dfe938a1d945285280b@ASUS>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+

@@ -1,0 +1,15 @@
+To: pratap@gmails.com
+Subject: Birthday Reminder From Diet Code
+From: Diet Code <irwin93jesus@gmail.com>
+X-Mailer: CakePHP Email
+Date: Tue, 30 Sep 2014 12:55:13 +0530
+Message-ID: <542a5ad990c845b798a7191c5285280b@ASUS>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Wish  Today is his Birthday
+Party Time !!! 
+
+This email was sent using the CakePHP Framework, http://cakephp.org.
+

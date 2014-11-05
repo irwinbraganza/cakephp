@@ -1,0 +1,11 @@
+
+public function favorites() {
+    $this->request->onlyAllow('ajax'); // No direct access via browser URL - Note for Cake2.5: allowMethod()
+ 
+    $data = array(
+        'content' => ...,
+        'error' => '',
+    );
+    $this->set(compact('data')); // Pass $data to the view
+    $this->set('_serialize', 'data'); // Let the JsonView class know what variable to use
+}
